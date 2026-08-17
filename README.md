@@ -42,17 +42,17 @@ I enjoy turning ideas into working applications while continuously improving my 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=56&animation=rainbow&animationDuration=2.5" alt="React"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=56&animation=rainbow&animationDuration=2.5" alt="TypeScript"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=56&animation=rainbow&animationDuration=2.5" alt="Tailwind CSS"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=56&animation=rainbow&animationDuration=2.5" alt="Vite"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=vue&size=56&animation=rainbow&animationDuration=2.5" alt="Vue"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=56&animation=rainbow&animationDuration=2.5" alt="React Router"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=56&animation=rainbow&animationDuration=2.5" alt="Bootstrap"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=56" alt="React"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=56" alt="TypeScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=56" alt="Tailwind CSS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=56" alt="Vite"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vue&size=56" alt="Vue"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=56" alt="React Router"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=56" alt="Bootstrap"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=540&height=160&multiline=true&duration=400&pause=800&lines=React%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;TypeScript%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;Tailwind%20CSS%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;Vite%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Vue%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;React%20Router%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;Bootstrap%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25" alt="Frontend Skills"/>
+  <svg width="520" height="202" viewBox="0 0 520 202" xmlns="http://www.w3.org/2000/svg" role="img"><text x="0" y="18" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">React</text><rect x="120" y="8" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="8" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="289" dur="1.2s" fill="freeze"/></rect><text x="468" y="18" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">85%</text><text x="0" y="44" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">TypeScript</text><rect x="120" y="34" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="34" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="255" dur="1.2s" fill="freeze"/></rect><text x="468" y="44" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">75%</text><text x="0" y="70" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Tailwind CSS</text><rect x="120" y="60" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="60" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="289" dur="1.2s" fill="freeze"/></rect><text x="468" y="70" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">85%</text><text x="0" y="96" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Vite</text><rect x="120" y="86" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="86" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="272" dur="1.2s" fill="freeze"/></rect><text x="468" y="96" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">80%</text><text x="0" y="122" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Vue</text><rect x="120" y="112" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="112" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze"/></rect><text x="468" y="122" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">70%</text><text x="0" y="148" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">React Router</text><rect x="120" y="138" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="138" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="255" dur="1.2s" fill="freeze"/></rect><text x="468" y="148" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">75%</text><text x="0" y="174" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Bootstrap</text><rect x="120" y="164" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="164" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="272" dur="1.2s" fill="freeze"/></rect><text x="468" y="174" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">80%</text></svg>
 </p>
 
 ---
@@ -60,19 +60,19 @@ I enjoy turning ideas into working applications while continuously improving my 
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=56&animation=rainbow&animationDuration=2.5" alt="Node.js"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=56&animation=rainbow&animationDuration=2.5" alt="PHP"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=56&animation=rainbow&animationDuration=2.5" alt="Laravel"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=56&animation=rainbow&animationDuration=2.5" alt="Python"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=56&animation=rainbow&animationDuration=2.5" alt="JavaScript"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=56&animation=rainbow&animationDuration=2.5" alt="MySQL"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=56&animation=rainbow&animationDuration=2.5" alt="Firebase"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=56&animation=rainbow&animationDuration=2.5" alt="Supabase"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=56&animation=rainbow&animationDuration=2.5" alt="MongoDB"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=56" alt="Node.js"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=56" alt="PHP"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=56" alt="Laravel"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=56" alt="Python"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=56" alt="JavaScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=56" alt="MySQL"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=56" alt="Firebase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=56" alt="Supabase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=56" alt="MongoDB"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=540&height=200&multiline=true&duration=400&pause=800&lines=Node.js%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;PHP%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;Laravel%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Python%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;JavaScript%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;MySQL%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Firebase%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;Supabase%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2065%25;MongoDB%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25" alt="Backend Skills"/>
+  <svg width="520" height="254" viewBox="0 0 520 254" xmlns="http://www.w3.org/2000/svg" role="img"><text x="0" y="18" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Node.js</text><rect x="120" y="8" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="8" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="272" dur="1.2s" fill="freeze"/></rect><text x="468" y="18" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">80%</text><text x="0" y="44" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">PHP</text><rect x="120" y="34" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="34" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="289" dur="1.2s" fill="freeze"/></rect><text x="468" y="44" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">85%</text><text x="0" y="70" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Laravel</text><rect x="120" y="60" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="60" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="272" dur="1.2s" fill="freeze"/></rect><text x="468" y="70" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">80%</text><text x="0" y="96" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Python</text><rect x="120" y="86" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="86" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="255" dur="1.2s" fill="freeze"/></rect><text x="468" y="96" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">75%</text><text x="0" y="122" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">JavaScript</text><rect x="120" y="112" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="112" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="289" dur="1.2s" fill="freeze"/></rect><text x="468" y="122" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">85%</text><text x="0" y="148" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">MySQL</text><rect x="120" y="138" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="138" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="272" dur="1.2s" fill="freeze"/></rect><text x="468" y="148" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">80%</text><text x="0" y="174" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Firebase</text><rect x="120" y="164" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="164" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze"/></rect><text x="468" y="174" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">70%</text><text x="0" y="200" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Supabase</text><rect x="120" y="190" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="190" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="221" dur="1.2s" fill="freeze"/></rect><text x="468" y="200" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">65%</text><text x="0" y="226" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">MongoDB</text><rect x="120" y="216" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="216" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze"/></rect><text x="468" y="226" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">70%</text></svg>
 </p>
 
 ---
@@ -80,18 +80,18 @@ I enjoy turning ideas into working applications while continuously improving my 
 ### 🖥️ OS & Tools
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=56&animation=rainbow&animationDuration=2.5" alt="Linux"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=56&animation=rainbow&animationDuration=2.5" alt="Ubuntu"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=56&animation=rainbow&animationDuration=2.5" alt="iOS"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=56&animation=rainbow&animationDuration=2.5" alt="Windows"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=56" alt="Linux"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=56" alt="Ubuntu"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=56" alt="iOS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=56" alt="Windows"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="56" alt="VS Code"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=56&animation=rainbow&animationDuration=2.5" alt="Git"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=56&animation=rainbow&animationDuration=2.5" alt="Figma"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=56" alt="Git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=56" alt="Figma"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56" alt="GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=540&height=175&multiline=true&duration=400&pause=800&lines=Linux%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;Ubuntu%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;iOS%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2060%25;Windows%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;VS%20Code%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%20%2090%25;Git%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;Figma%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;GitHub%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25" alt="Tools Skills"/>
+  <svg width="520" height="228" viewBox="0 0 520 228" xmlns="http://www.w3.org/2000/svg" role="img"><text x="0" y="18" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Linux</text><rect x="120" y="8" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="8" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze"/></rect><text x="468" y="18" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">70%</text><text x="0" y="44" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Ubuntu</text><rect x="120" y="34" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="34" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze"/></rect><text x="468" y="44" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">70%</text><text x="0" y="70" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">iOS</text><rect x="120" y="60" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="60" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="204" dur="1.2s" fill="freeze"/></rect><text x="468" y="70" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">60%</text><text x="0" y="96" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Windows</text><rect x="120" y="86" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="86" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="255" dur="1.2s" fill="freeze"/></rect><text x="468" y="96" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">75%</text><text x="0" y="122" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">VS Code</text><rect x="120" y="112" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="112" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="306" dur="1.2s" fill="freeze"/></rect><text x="468" y="122" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">90%</text><text x="0" y="148" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Git</text><rect x="120" y="138" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="138" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="289" dur="1.2s" fill="freeze"/></rect><text x="468" y="148" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">85%</text><text x="0" y="174" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">Figma</text><rect x="120" y="164" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="164" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="238" dur="1.2s" fill="freeze"/></rect><text x="468" y="174" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">70%</text><text x="0" y="200" font-family="Consolas,'Courier New',monospace" font-size="13" font-weight="600" fill="#0E6B0E">GitHub</text><rect x="120" y="190" width="340" height="14" rx="7" fill="#e1e4e8"/><rect x="120" y="190" height="14" rx="7" fill="#0E6B0E"><animate attributeName="width" from="0" to="289" dur="1.2s" fill="freeze"/></rect><text x="468" y="200" text-anchor="end" font-family="Consolas,'Courier New',monospace" font-size="12" font-weight="600" fill="#57606a">85%</text></svg>
 </p>
 
 ---
@@ -103,30 +103,30 @@ I enjoy turning ideas into working applications while continuously improving my 
 </p>
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=48&animation=rainbow&animationDuration=2.5" alt="React"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=48&animation=rainbow&animationDuration=2.5" alt="TypeScript"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=48&animation=rainbow&animationDuration=2.5" alt="Tailwind CSS"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=48&animation=rainbow&animationDuration=2.5" alt="Vite"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=vue&size=48&animation=rainbow&animationDuration=2.5" alt="Vue"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=48&animation=rainbow&animationDuration=2.5" alt="React Router"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=48&animation=rainbow&animationDuration=2.5" alt="Bootstrap"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=48&animation=rainbow&animationDuration=2.5" alt="Node.js"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=48&animation=rainbow&animationDuration=2.5" alt="PHP"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=48&animation=rainbow&animationDuration=2.5" alt="Laravel"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=48&animation=rainbow&animationDuration=2.5" alt="Python"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=48&animation=rainbow&animationDuration=2.5" alt="JavaScript"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=48&animation=rainbow&animationDuration=2.5" alt="MySQL"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=48&animation=rainbow&animationDuration=2.5" alt="Firebase"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=48&animation=rainbow&animationDuration=2.5" alt="Supabase"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=48&animation=rainbow&animationDuration=2.5" alt="MongoDB"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=48&animation=rainbow&animationDuration=2.5" alt="Linux"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=48&animation=rainbow&animationDuration=2.5" alt="Ubuntu"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=48&animation=rainbow&animationDuration=2.5" alt="iOS"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=48&animation=rainbow&animationDuration=2.5" alt="Windows"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=48" alt="React"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=48" alt="TypeScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=48" alt="Tailwind CSS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=48" alt="Vite"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vue&size=48" alt="Vue"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=48" alt="React Router"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=48" alt="Bootstrap"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=48" alt="Node.js"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=48" alt="PHP"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=48" alt="Laravel"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=48" alt="Python"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=48" alt="JavaScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=48" alt="MySQL"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=48" alt="Firebase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=48" alt="Supabase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=48" alt="MongoDB"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=48" alt="Linux"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=48" alt="Ubuntu"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=48" alt="iOS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=48" alt="Windows"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" alt="VS Code"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=48&animation=rainbow&animationDuration=2.5" alt="Git"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=48&animation=rainbow&animationDuration=2.5" alt="Figma"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=48&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=48" alt="Git"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=48" alt="Figma"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=48" alt="GitHub"/>
 </p>
 
 ---
@@ -156,10 +156,10 @@ I enjoy turning ideas into working applications while continuously improving my 
 </p>
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=56&animation=rainbow&animationDuration=2.5" alt="React"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=56&animation=rainbow&animationDuration=2.5" alt="Node.js"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=56&animation=rainbow&animationDuration=2.5" alt="TypeScript"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=56&animation=rainbow&animationDuration=2.5" alt="Python"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=56" alt="React"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=56" alt="Node.js"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=56" alt="TypeScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=56" alt="Python"/>
 </p>
 
 <p align="center">
@@ -176,19 +176,19 @@ I enjoy turning ideas into working applications while continuously improving my 
 
 <p align="center">
   <a href="https://ken-usa.vercel.app">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=vercel&size=56&animation=rainbow&animationDuration=2.5" alt="Portfolio"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=vercel&size=56" alt="Portfolio"/>
   </a>
   
   <a href="https://github.com/KenUsa-31">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56" alt="GitHub"/>
   </a>
   
   <a href="https://www.linkedin.com/in/ken-usa">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56&animation=rainbow&animationDuration=2.5" alt="LinkedIn"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=56" alt="LinkedIn"/>
   </a>
   
   <a href="mailto:ken@example.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=56&animation=rainbow&animationDuration=2.5" alt="Email"/>
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=56" alt="Email"/>
   </a>
 </p>
 

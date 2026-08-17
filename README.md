@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenusa&style=flat-square&color=0E6B0E&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KenUsa-31&style=flat-square&color=0E6B0E&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kenusa?label=Followers&style=social&color=0E6B0E" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/kenusa?style=social&color=0E6B0E" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/KenUsa-31?label=Followers&style=social&color=0E6B0E" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/KenUsa-31?style=social&color=0E6B0E" alt="Stars"/>
 </p>
 
 ---
@@ -138,13 +138,13 @@ I enjoy turning ideas into working applications while continuously improving my 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenusa&show_icons=true&hide_border=true&theme=tokyonight&title_color=0E6B0E&icon_color=0E6B0E&text_color=c9d1d9&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KenUsa-31&show_icons=true&hide_border=true&theme=tokyonight&title_color=0E6B0E&icon_color=0E6B0E&text_color=c9d1d9&bg_color=0d1117" height="180"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenusa&hide_border=true&theme=tokyonight&ring=0E6B0E&fire=0E6B0E&currStreakLabel=0E6B0E&sideLabels=c9d1d9&dates=8b949e&background=0d1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenUsa-31&hide_border=true&theme=tokyonight&ring=0E6B0E&fire=0E6B0E&currStreakLabel=0E6B0E&sideLabels=c9d1d9&dates=8b949e&background=0d1117" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenusa&bg_color=0d1117&color=0E6B0E&line=0E6B0E&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenUsa-31&bg_color=0d1117&color=0E6B0E&line=0E6B0E&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -179,7 +179,7 @@ I enjoy turning ideas into working applications while continuously improving my 
     <img src="https://www.readmecodegen.com/api/social-icon?name=vercel&size=56&animation=rainbow&animationDuration=2.5" alt="Portfolio"/>
   </a>
   
-  <a href="https://github.com/kenusa">
+  <a href="https://github.com/KenUsa-31">
     <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
   </a>
   

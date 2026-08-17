@@ -28,7 +28,7 @@ I'm **Ken Andrei Usa**, a developer passionate about building **modern, responsi
 I enjoy turning ideas into working applications while continuously improving my skills across **frontend, backend, mobile development, databases, and modern development tools**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=0E6B0E&center=true&vCenter=true&width=600&lines=%3E+current+focus+%E2%9A%99%EF%B8%8F;%3E+Web+Development+%F0%9F%8C%90;%3E+Full-Stack+Development+%E2%9A%99%EF%B8%8F;%3E+Mobile+Development+%F0%9F%93%B1;%3E+Database+Systems+%F0%9F%97%84%EF%B8%8F;%3E+UI+%2F+UX+Design+%F0%9F%8E%A8;%3E+Continuous+Learning+%F0%9F%9A%80" alt="Current Focus"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=0E6B0E&center=true&vCenter=true&width=600&lines=%3E+current+focus+%E2%9A%99%EF%B8%8F;%3E+Web+Development+%F0%9F%8C%90;%3E+Full-Stack+Development+%E2%9A%99%EF%B8%8F;%3E+Database+Systems+%F0%9F%97%84%EF%B8%8F;%3E+UI+%2F+UX+Design+%F0%9F%8E%A8;%3E+Continuous+Learning+%F0%9F%9A%80" alt="Current Focus"/>
 </p>
 
 ---
@@ -42,70 +42,56 @@ I enjoy turning ideas into working applications while continuously improving my 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=56&animation=rainbow&animationDuration=2.5" alt="HTML"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=56&animation=rainbow&animationDuration=2.5" alt="CSS"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=56&animation=rainbow&animationDuration=2.5" alt="JavaScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=56&animation=rainbow&animationDuration=2.5" alt="React"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=56&animation=rainbow&animationDuration=2.5" alt="TypeScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=56&animation=rainbow&animationDuration=2.5" alt="Tailwind CSS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=56&animation=rainbow&animationDuration=2.5" alt="Vite"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vue&size=56&animation=rainbow&animationDuration=2.5" alt="Vue"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=56&animation=rainbow&animationDuration=2.5" alt="React Router"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=56&animation=rainbow&animationDuration=2.5" alt="Bootstrap"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=520&height=120&multiline=true&duration=400&pause=800&lines=HTML%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%20%2090%25;CSS%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;JavaScript%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;TypeScript%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2060%25" alt="Frontend Skills"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=540&height=160&multiline=true&duration=400&pause=800&lines=React%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;TypeScript%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;Tailwind%20CSS%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;Vite%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Vue%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;React%20Router%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;Bootstrap%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25" alt="Frontend Skills"/>
 </p>
 
 ---
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend
 
 <p align="center">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=56&animation=rainbow&animationDuration=2.5" alt="Node.js"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=56&animation=rainbow&animationDuration=2.5" alt="PHP"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=56&animation=rainbow&animationDuration=2.5" alt="Laravel"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=56&animation=rainbow&animationDuration=2.5" alt="Python"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=56&animation=rainbow&animationDuration=2.5" alt="Java"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=520&height=120&multiline=true&duration=400&pause=800&lines=PHP%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Laravel%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;Python%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2065%25;Java%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2060%25" alt="Backend Skills"/>
-</p>
-
----
-
-### 📱 Mobile Development
-
-<p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=56&animation=rainbow&animationDuration=2.5" alt="Flutter"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=dart&size=56&animation=rainbow&animationDuration=2.5" alt="Dart"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=520&height=70&multiline=true&duration=400&pause=800&lines=Flutter%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;Dart%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2065%25" alt="Mobile Skills"/>
-</p>
-
----
-
-### 🗄️ Database
-
-<p align="center">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=56&animation=rainbow&animationDuration=2.5" alt="JavaScript"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=56&animation=rainbow&animationDuration=2.5" alt="MySQL"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=56&animation=rainbow&animationDuration=2.5" alt="Firebase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=56&animation=rainbow&animationDuration=2.5" alt="Supabase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=56&animation=rainbow&animationDuration=2.5" alt="MongoDB"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=520&height=50&multiline=true&duration=400&pause=800&lines=MySQL%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25" alt="Database Skills"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=540&height=200&multiline=true&duration=400&pause=800&lines=Node.js%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;PHP%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;Laravel%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Python%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;JavaScript%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;MySQL%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Firebase%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;Supabase%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2065%25;MongoDB%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25" alt="Backend Skills"/>
 </p>
 
 ---
 
-### 🛠️ Tools & Workflow
+### 🖥️ OS & Tools
 
 <p align="center">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=56&animation=rainbow&animationDuration=2.5" alt="Linux"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=56&animation=rainbow&animationDuration=2.5" alt="Ubuntu"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=56&animation=rainbow&animationDuration=2.5" alt="iOS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=56&animation=rainbow&animationDuration=2.5" alt="Windows"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="56" alt="VS Code"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=56&animation=rainbow&animationDuration=2.5" alt="Git"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=vscode&size=56&animation=rainbow&animationDuration=2.5" alt="VS Code"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=56&animation=rainbow&animationDuration=2.5" alt="Figma"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=postman&size=56&animation=rainbow&animationDuration=2.5" alt="Postman"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=56&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=520&height=150&multiline=true&duration=400&pause=800&lines=VS%20Code%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%20%2095%25;GitHub%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;Git%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2080%25;Figma%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;Postman%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2065%25" alt="Tools Skills"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&color=0E6B0E&center=true&vCenter=true&width=540&height=175&multiline=true&duration=400&pause=800&lines=Linux%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;Ubuntu%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;iOS%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2060%25;Windows%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2075%25;VS%20Code%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%20%2090%25;Git%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25;Figma%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%20%2070%25;GitHub%20%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%20%2085%25" alt="Tools Skills"/>
 </p>
 
 ---
@@ -117,22 +103,30 @@ I enjoy turning ideas into working applications while continuously improving my 
 </p>
 
 <p align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=48&animation=rainbow&animationDuration=2.5" alt="HTML"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=48&animation=rainbow&animationDuration=2.5" alt="CSS"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=48&animation=rainbow&animationDuration=2.5" alt="JavaScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=48&animation=rainbow&animationDuration=2.5" alt="React"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=48&animation=rainbow&animationDuration=2.5" alt="TypeScript"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=48&animation=rainbow&animationDuration=2.5" alt="Tailwind CSS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vite&size=48&animation=rainbow&animationDuration=2.5" alt="Vite"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=vue&size=48&animation=rainbow&animationDuration=2.5" alt="Vue"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=48&animation=rainbow&animationDuration=2.5" alt="React Router"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=48&animation=rainbow&animationDuration=2.5" alt="Bootstrap"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=48&animation=rainbow&animationDuration=2.5" alt="Node.js"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=php&size=48&animation=rainbow&animationDuration=2.5" alt="PHP"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=laravel&size=48&animation=rainbow&animationDuration=2.5" alt="Laravel"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=48&animation=rainbow&animationDuration=2.5" alt="Python"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=48&animation=rainbow&animationDuration=2.5" alt="Java"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=flutter&size=48&animation=rainbow&animationDuration=2.5" alt="Flutter"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=dart&size=48&animation=rainbow&animationDuration=2.5" alt="Dart"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=48&animation=rainbow&animationDuration=2.5" alt="JavaScript"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=48&animation=rainbow&animationDuration=2.5" alt="MySQL"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=firebase&size=48&animation=rainbow&animationDuration=2.5" alt="Firebase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=supabase&size=48&animation=rainbow&animationDuration=2.5" alt="Supabase"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=48&animation=rainbow&animationDuration=2.5" alt="MongoDB"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=48&animation=rainbow&animationDuration=2.5" alt="Linux"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=48&animation=rainbow&animationDuration=2.5" alt="Ubuntu"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=apple&size=48&animation=rainbow&animationDuration=2.5" alt="iOS"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=windows&size=48&animation=rainbow&animationDuration=2.5" alt="Windows"/>
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" alt="VS Code"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=48&animation=rainbow&animationDuration=2.5" alt="Git"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=48&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=vscode&size=48&animation=rainbow&animationDuration=2.5" alt="VS Code"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=48&animation=rainbow&animationDuration=2.5" alt="Figma"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=postman&size=48&animation=rainbow&animationDuration=2.5" alt="Postman"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=48&animation=rainbow&animationDuration=2.5" alt="GitHub"/>
 </p>
 
 ---
